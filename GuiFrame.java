@@ -1,7 +1,7 @@
 import java.awt.*; // Where is the other button?
 import javax.swing.*;
 
-public class GuiFRame {
+public class GuiFrame {
 	public static void main(String[] args) {
 		JFrame frame = new JFrame();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
